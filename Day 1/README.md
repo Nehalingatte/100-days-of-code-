@@ -4,7 +4,7 @@ This is a simple Python project that generates a unique band name based on user 
 📌 Project Overview
 The Band Name Generator is a beginner-friendly project from the 100 Days of Code challenge. It takes user inputs, such as their city and pet’s name, and combines them to create a fun and creative band name.
 
-
+Day 1 - Working with Variables in Python to Manage Data
 
 🚀 How It Works
 1️⃣ The program asks the user for their city name.
