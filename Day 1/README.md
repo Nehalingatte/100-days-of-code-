@@ -11,6 +11,13 @@ The Band Name Generator is a beginner-friendly project from the 100 Days of Code
 2️⃣ Then, it asks for their pet’s name.
 3️⃣ It combines both inputs to generate a cool band name.
 
+📌 Concepts Practiced
+✅ Printing to the Console in Python
+✅ String Manipulation and Code Intelligence
+✅ Debugging
+✅ The Python Input Function
+✅ Python Variables
+✅ Variable Naming
 
 
 
